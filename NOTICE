@@ -1,0 +1,18 @@
+Linear extension for Tezbar
+==========================
+
+This standalone Rust extension is based on the MIT-licensed Linear extension
+for Raycast by the Linear team, Thomas Lombart, and original contributors.
+
+Pinned upstream commit:
+https://github.com/raycast/extensions/tree/7ad5b7f3b32d2168eab8c7d4ea6001cede9a2ba8/extensions/linear
+
+Copyright (c) 2021 Raycast. See LICENSE and the original Store manifest for the
+upstream license, maintainers, previous contributors, and ownership attribution.
+Linear trademarks and logos remain the property of their respective owners.
+
+The packaged resources preserve the original extension icon, SVGs, media,
+and AI configuration/skill source for provenance. SOURCE.json identifies every
+upstream file by Git blob ID and SHA-256. The executable uses Rust and the
+Tezbar external extension protocol. See licenses/DEPENDENCIES.json and the
+individual notices for third-party Rust dependencies.
